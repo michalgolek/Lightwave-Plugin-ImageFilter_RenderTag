@@ -1,0 +1,1 @@
+# Lightwave-Plugin---ImageFilter_RenderSummary
