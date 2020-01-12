@@ -29,7 +29,7 @@ Describe how to install Lightwave 3D SDK and prepare the environment for buildin
 
 Description for the Visual Studio development environment:
 
-> ### Build server.lib for Lightwave SDK:
+### Build server.lib for Lightwave SDK:
 >1. Download the official SDK for Ligthwave 3D from the manufacturer's website:
 https://www.lightwave3d.com/lightwave_sdk/
 >2. Unzip the SDK package to the location where the plugin project is located in the **"sdk\lwsdk"** folder
@@ -41,9 +41,9 @@ https://www.lightwave3d.com/lightwave_sdk/
 >8. Build a project.
 >9. Done!
 
-> ### Build MiG_RenderTag plugin:
-If the process of building server.lib was successful then follow these steps:
-
+### Build MiG_RenderTag plugin:
+>If the process of building server.lib was successful then follow these steps:
+>
 >1. After creating a copy of the repository, also download the simpleini submodule
 >2. Go to the project folder and open the Visual Studio walkthrough called MIG_Plugin
 >3. Select the target platform (for Lightwave plugins in 32 bit version use win32 and for Lightwave in 64 bit version use win64) and configuration type (Release or Debug)
